@@ -13,10 +13,11 @@ IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/
 ---
 TITLE: Prashant Dabholkar Conquers Ironman Dream at Kolhapur
 DESCRIPTION: After a year-long wait due to injury, Prashant Dabholkar fulfilled his dream by completing the Kolhapur Ironman on October 5, 2025, in an impressive 7 hours 46 minutes. He conquered the grueling triathlon consisting of 1.9km swimming (1:27), 90km cycling (3:30), and 21km running (2:46), completing it well within the 10-hour cutoff. His dedication included 6 hours of daily practice, with special focus on swimming - his weak point - with guidance from experienced triathletes, proving that persistence and focused training can turn dreams into reality.
-IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/heads/main/CCC4.jpg
+IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/heads/main/CCC5.jpg
 ---
 TITLE: Manoj Bhatwadekar Achieves 5th Consecutive Super Randonneur Title
 DESCRIPTION: Manoj Bhatwadekar, Vice President of Chiplun Cycling Club and founder of Sahyadri Randonneur, achieved his 5th consecutive Super Randonneur (SR) title in 2025. What makes his achievement extraordinary is that he started cycling at age 50, and at 55, continues to inspire countless cyclists with his guidance on BRM rides. His dedication includes completing two SR titles in the same year (2023-24), proving that age is just a number when passion drives you.
-IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/heads/main/CCC5.jpg
+IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/heads/main/CCC4.jpg
 ---
+
 
