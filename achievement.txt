@@ -19,5 +19,9 @@ TITLE: Manoj Bhatwadekar Achieves 5th Consecutive Super Randonneur Title
 DESCRIPTION: Manoj Bhatwadekar, Vice President of Chiplun Cycling Club and founder of Sahyadri Randonneur, achieved his 5th consecutive Super Randonneur (SR) title in 2025. What makes his achievement extraordinary is that he started cycling at age 50, and at 55, continues to inspire countless cyclists with his guidance on BRM rides. His dedication includes completing two SR titles in the same year (2023-24), proving that age is just a number when passion drives you.
 IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/heads/main/CCC4.jpg
 ---
+TITLE: Raghav Kharche SR title
+DESCRIPTION: Raawdcfghjnmkp, fvgbhnijmk g uhijok gh
+IMAGE: https://raw.githubusercontent.com/raghavkharche8/ChiplunCyclingClub/refs/heads/main/CCC2.jpg
+---
 
 
